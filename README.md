@@ -1,2 +1,2 @@
-# C-prorgmming-project
+# C-prorgmming Codes
 Learning C programming language Discription
